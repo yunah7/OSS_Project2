@@ -1,8 +1,3 @@
-# This is a sample Python script.
-
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
-
 #PLEASE WRITE THE GITHUB URL BELOW!
 #https://github.com/yunah7/OSS_Project2.git
 
